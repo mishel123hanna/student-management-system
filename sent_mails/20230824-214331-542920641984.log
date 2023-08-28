@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: staff@gmail.com
+Date: Thu, 24 Aug 2023 18:43:31 -0000
+Message-ID: <169290261106.1056.13702782145768110818@Laptopi-Homs>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/Nw/btghoj-31891bf42748c4b78d2c869fb75e57e3/
+
+Your username, in case you’ve forgotten: sta
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
